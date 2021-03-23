@@ -1,0 +1,15 @@
+# gist.gist
+### this is data analysis with python
+- outdoor games
+    1. cricket
+    2. hockey
+- indoor gtames
+    1. chess
+    2. carroms
+- this is *italic* word and this is **bo9ld** word
+- [GOOGLE](http://www.google.com)
+- this is a'DATYA ANALYSIS US8ING PYTHON' workshop
+### make horizontal lines
+  - git
+  - python
+  - numpy
